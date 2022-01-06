@@ -1,5 +1,7 @@
 ## Welcome to my Page! 👋
 
+![](https://tino.figaro.hr/img/coding.gif)
+
 I'm Rebecca, self taught software engineer from Zagreb, Croatia. Interested in Fullstack development, Blockchain and Security.
 
 ### Where to find me 
