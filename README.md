@@ -1,6 +1,5 @@
 ## Welcome to my Page! 👋
 
-![](https://tino.figaro.hr/img/coding.gif)
 
 I'm Rebecca, self taught software engineer from Zagreb, Croatia. Interested in Fullstack development, Blockchain and Security.
 
@@ -41,3 +40,5 @@ Here are some ideas to get you started:
 ### Design 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+![Rebecca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bexicaaa&show_icons=true&theme=radical)
