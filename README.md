@@ -41,4 +41,10 @@ Here are some ideas to get you started:
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
+### Github stats
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bexicaaa)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Rebecca's GitHub stats](https://github-readme-stats.vercel.app/api?username=bexicaaa&show_icons=true&theme=radicalenv=PAT_1)
