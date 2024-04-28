@@ -1,7 +1,7 @@
 ## Welcome to my Page! 👋
 
 
-I'm Rebecca, self taught software engineer from Zagreb, Croatia. Interested in Fullstack development, Blockchain and Security.
+I'm Rebecca, self taught web programmer.
 
 ### Where to find me 
 [LinkedIn](www.linkedin.com/in/rebeccamilosavljevic)
